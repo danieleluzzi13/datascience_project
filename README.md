@@ -11,3 +11,4 @@ Fonte piattaforma Banca Mondiale: http://databank.worldbank.org/data/source/jobs
 
 Il mio primo progetto in Data Science. Mi è piaciuto molto.
 Ringrazio la professoressa Stefania Delprete per i suoi insengnamenti, ho imparato molto.
+Linkedin Profilo: "https://www.linkedin.com/in/daniele-luzzi-5633271a5/"
